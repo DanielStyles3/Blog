@@ -68,3 +68,14 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### 'to filter in the blog"
+
+            <Bloglist blogs={blogs.filter((blog) =>blog.author==='Styles' )} title="Styles's blogs" />
+
+
+### the const
+{title:'My new website', body:'lorem.....',author:'Styles',id:1},
+    {title:'Welcome Party!', body:'lorem.....',author:'Style',id:2},
+    {title:'web dev top tips', body:'lorem.....',author:'daniel',id:3}
+    ]);
