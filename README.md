@@ -79,3 +79,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
     {title:'Welcome Party!', body:'lorem.....',author:'Style',id:2},
     {title:'web dev top tips', body:'lorem.....',author:'daniel',id:3}
     ]);
+
+
+
+    The Deployment  link
+    https://verdant-sopapillas-590363.netlify.app/
